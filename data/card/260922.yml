@@ -1,0 +1,159 @@
+about:
+  description: "A code editor that lives in your terminal — one self-contained binary with tree-sitter syntax, language servers, git and extensions."
+  license: MIT
+  homepage: https://druk.sh
+  head: 07b14f3
+  archived: false
+  latestVersion: "v1.33.0"
+  latestRelease: "v1.33.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-22T06:39:28Z
+timeline:
+  created: 2026-07-24
+  lastCommit: 2026-09-21
+  lastVersion: 2026-09-21
+  lastRelease: 2026-09-21
+  lastPrerelease: 
+popularity:
+  star: 757
+  watcher: 2
+  fork: 39
+  release: 63
+  contributor: 18
+  pullRequest: 62
+  issue: 44
+language:
+  TypeScript: 2142400
+  Tree-sitter Query: 21684
+  JavaScript: 8666
+  Shell: 8637
+  CSS: 5993
+totalBytes: 2187380
+recent:
+  last30d:
+    since: 2026-08-23
+    release: 26
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 5
+    openIssue: 0
+    commit: 117
+  last60d:
+    since: 2026-07-24
+    release: 63
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 396
+  last90d:
+    since: 2026-06-24
+    release: 63
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 430
+  last180d:
+    since: 2026-03-26
+    release: 63
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 430
+  last360d:
+    since: 2025-09-27
+    release: 63
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 430
+  last720d:
+    since: 2024-10-02
+    release: 63
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 507
+total:
+  release: 63
+  mergedPR: 60
+  openPR: 0
+  closedIssue: 43
+  openIssue: 1
+  commit: 507
+---
+path: /home/runner/.x-repo/github.com/letstri/druk
+collectedAt: 2026-09-22T06:39:30Z
+loc:
+  TypeScript:
+    code: 32418
+    comments: 860
+    blanks: 2910
+    files: 204
+  Tsx:
+    code: 31565
+    comments: 589
+    blanks: 4067
+    files: 198
+  Json:
+    code: 18356
+    comments: 0
+    blanks: 3
+    files: 66
+  Scheme:
+    code: 491
+    comments: 59
+    blanks: 52
+    files: 23
+  Css:
+    code: 369
+    comments: 1
+    blanks: 69
+    files: 1
+  JavaScript:
+    code: 253
+    comments: 18
+    blanks: 25
+    files: 4
+  Bash:
+    code: 241
+    comments: 5
+    blanks: 18
+    files: 1
+  Svg:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Xml:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 3
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2731
+    blanks: 287
+    files: 7
+  Text:
+    code: 0
+    comments: 3
+    blanks: 1
+    files: 1
+total:
+  code: 83799
+  comments: 4267
+  blanks: 7433
+  files: 508
+---
+
+---
