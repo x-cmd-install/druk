@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.35.2"
   latestRelease: "v1.35.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-24T05:56:59Z
+  collectedAt: 2026-09-25T06:05:37Z
 timeline:
   created: 2026-07-24
   lastCommit: 2026-09-23
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-23
   lastPrerelease: 
 popularity:
-  star: 763
+  star: 768
   watcher: 2
-  fork: 40
+  fork: 41
   release: 67
   contributor: 18
-  pullRequest: 63
-  issue: 44
+  pullRequest: 64
+  issue: 45
 language:
   TypeScript: 2173730
   Tree-sitter Query: 21684
@@ -31,63 +31,63 @@ language:
 totalBytes: 2218710
 recent:
   last30d:
-    since: 2026-08-25
+    since: 2026-08-26
     release: 28
     mergedPR: 2
-    openPR: 1
+    openPR: 2
     closedIssue: 5
-    openIssue: 0
+    openIssue: 1
     commit: 134
   last60d:
-    since: 2026-07-26
+    since: 2026-07-27
     release: 67
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 43
-    openIssue: 1
+    openIssue: 2
     commit: 413
   last90d:
-    since: 2026-06-26
+    since: 2026-06-27
     release: 67
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 43
-    openIssue: 1
+    openIssue: 2
     commit: 447
   last180d:
-    since: 2026-03-28
+    since: 2026-03-29
     release: 67
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 43
-    openIssue: 1
+    openIssue: 2
     commit: 447
   last360d:
-    since: 2025-09-29
+    since: 2025-09-30
     release: 67
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 43
-    openIssue: 1
+    openIssue: 2
     commit: 447
   last720d:
-    since: 2024-10-04
+    since: 2024-10-05
     release: 67
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 43
-    openIssue: 1
+    openIssue: 2
     commit: 524
 total:
   release: 67
   mergedPR: 60
-  openPR: 1
+  openPR: 2
   closedIssue: 43
-  openIssue: 1
+  openIssue: 2
   commit: 524
 ---
 path: /home/runner/.x-repo/github.com/letstri/druk
-collectedAt: 2026-09-24T05:57:01Z
+collectedAt: 2026-09-25T06:05:38Z
 loc:
   TypeScript:
     code: 32710
@@ -157,4 +157,4 @@ total:
 ---
 
 ---
-{"id":394717096,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOTiYNS84Xhueo","tag_name":"v1.35.2","target_commitish":"main","name":"v1.35.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-23T13:55:01Z","updated_at":"2026-09-23T13:57:44Z","published_at":"2026-09-23T13:57:34Z","assets":[{"id":583879951,"node_id":"RA_kwDOTiYNS84izU0P","name":"druk-1.35.2-1.aarch64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":45184547,"digest":"sha256:dc2ac9678b3ab214965fe04e7ca06857ee664368a0f999a9e1263247126fb3dc","download_count":1,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879953,"node_id":"RA_kwDOTiYNS84izU0R","name":"druk-1.35.2-1.x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":44855327,"digest":"sha256:62f45f26d617538bf6035c233b37f0a49a583bc7fe9364f3a004a9260d83c540","download_count":1,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879950,"node_id":"RA_kwDOTiYNS84izU0O","name":"druk-1.35.2.arm64_linux.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":43998087,"digest":"sha256:79d6e75ff811750f9ec31d4078b4aa1f70dd875425e4783f485167487befdb11","download_count":1,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879949,"node_id":"RA_kwDOTiYNS84izU0N","name":"druk-1.35.2.arm64_ventura.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":31472886,"digest":"sha256:8fb860da16bd7399ce0a724e816b18197f36ab3bd4d5d8741531b35db10f42ba","download_count":36,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879955,"node_id":"RA_kwDOTiYNS84izU0T","name":"druk-1.35.2.ventura.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":33912550,"digest":"sha256:9749d4a757975adb17fdac5da9fa5991c87b9579f859717d085ad84a238aa4eb","download_count":2,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583880013,"node_id":"RA_kwDOTiYNS84izU1N","name":"druk-1.35.2.x86_64_linux.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222322,"digest":"sha256:b6e3c75773efc4fb61f5856ca6c416bdd5172265c1dd91e308b772fa21367440","download_count":2,"created_at":"2026-09-23T13:57:37Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880015,"node_id":"RA_kwDOTiYNS84izU1P","name":"druk-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":31474337,"digest":"sha256:9e6da6f32c73ea138a351c8fbf48dcfb1d971ef0e50d3424a5e61dc550e1fa6f","download_count":23,"created_at":"2026-09-23T13:57:37Z","updated_at":"2026-09-23T13:57:39Z"},{"id":583880030,"node_id":"RA_kwDOTiYNS84izU1e","name":"druk-darwin-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":33911447,"digest":"sha256:7ad6cbcc00eb0dbf35bfe6d46a5e8f7ea8de1097827bda501100d873c257e947","download_count":2,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:39Z"},{"id":583880028,"node_id":"RA_kwDOTiYNS84izU1c","name":"druk-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":43995662,"digest":"sha256:a099d9f28a94e38623470bb14341fd2d5ee42f9b1f152d58c321030864db3a42","download_count":9,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880034,"node_id":"RA_kwDOTiYNS84izU1i","name":"druk-linux-x64-baseline.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222081,"digest":"sha256:06993794b992946fa85291cf76ccb1714b3ebe2b0e211af46f74c1db71342d79","download_count":2,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880081,"node_id":"RA_kwDOTiYNS84izU2R","name":"druk-linux-x64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222082,"digest":"sha256:d669c09bcdab43f4f15638c18cb6fbdb0b75cc4e4757ab0a13cb36cf79d0f250","download_count":40,"created_at":"2026-09-23T13:57:39Z","updated_at":"2026-09-23T13:57:41Z"},{"id":583880103,"node_id":"RA_kwDOTiYNS84izU2n","name":"druk-windows-x64-baseline.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45474659,"digest":"sha256:dddf5cb5c2e911d44a5495285c3f772cc158c1215f767a3a4d9be86a0b976982","download_count":1,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:42Z"},{"id":583880107,"node_id":"RA_kwDOTiYNS84izU2r","name":"druk-windows-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45474659,"digest":"sha256:d3c4864738bf27381378bf18d19adf363f91a2b41c5ba0c905f215ba68b4d065","download_count":19,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:42Z"},{"id":583880111,"node_id":"RA_kwDOTiYNS84izU2v","name":"druk.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":1721,"digest":"sha256:4e58ab83c1b6039d09c8ef2ccb9159247ecb85a93f97e5b150afdfcf186ec3a3","download_count":2,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880114,"node_id":"RA_kwDOTiYNS84izU2y","name":"druk_1.35.2_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":45091928,"digest":"sha256:f482fe8f20230a17eafa89d6f88f8cbb4f28c397ab0b8c43b1fadab6f8e7c012","download_count":1,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:43Z"},{"id":583880129,"node_id":"RA_kwDOTiYNS84izU3B","name":"druk_1.35.2_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":45568188,"digest":"sha256:0dadcf750d7d16386cef23bde2abf50b2c234dfce8cf24a53072dc68e563c498","download_count":1,"created_at":"2026-09-23T13:57:41Z","updated_at":"2026-09-23T13:57:44Z"}],"body":"**Full Changelog**: https://github.com/letstri/druk/compare/v1.35.1...v1.35.2"}
+{"id":394717096,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOTiYNS84Xhueo","tag_name":"v1.35.2","target_commitish":"main","name":"v1.35.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-23T13:55:01Z","updated_at":"2026-09-23T13:57:44Z","published_at":"2026-09-23T13:57:34Z","assets":[{"id":583879951,"node_id":"RA_kwDOTiYNS84izU0P","name":"druk-1.35.2-1.aarch64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":45184547,"digest":"sha256:dc2ac9678b3ab214965fe04e7ca06857ee664368a0f999a9e1263247126fb3dc","download_count":1,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879953,"node_id":"RA_kwDOTiYNS84izU0R","name":"druk-1.35.2-1.x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":44855327,"digest":"sha256:62f45f26d617538bf6035c233b37f0a49a583bc7fe9364f3a004a9260d83c540","download_count":1,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879950,"node_id":"RA_kwDOTiYNS84izU0O","name":"druk-1.35.2.arm64_linux.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":43998087,"digest":"sha256:79d6e75ff811750f9ec31d4078b4aa1f70dd875425e4783f485167487befdb11","download_count":2,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879949,"node_id":"RA_kwDOTiYNS84izU0N","name":"druk-1.35.2.arm64_ventura.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":31472886,"digest":"sha256:8fb860da16bd7399ce0a724e816b18197f36ab3bd4d5d8741531b35db10f42ba","download_count":79,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583879955,"node_id":"RA_kwDOTiYNS84izU0T","name":"druk-1.35.2.ventura.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":33912550,"digest":"sha256:9749d4a757975adb17fdac5da9fa5991c87b9579f859717d085ad84a238aa4eb","download_count":4,"created_at":"2026-09-23T13:57:35Z","updated_at":"2026-09-23T13:57:37Z"},{"id":583880013,"node_id":"RA_kwDOTiYNS84izU1N","name":"druk-1.35.2.x86_64_linux.bottle.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222322,"digest":"sha256:b6e3c75773efc4fb61f5856ca6c416bdd5172265c1dd91e308b772fa21367440","download_count":4,"created_at":"2026-09-23T13:57:37Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880015,"node_id":"RA_kwDOTiYNS84izU1P","name":"druk-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":31474337,"digest":"sha256:9e6da6f32c73ea138a351c8fbf48dcfb1d971ef0e50d3424a5e61dc550e1fa6f","download_count":41,"created_at":"2026-09-23T13:57:37Z","updated_at":"2026-09-23T13:57:39Z"},{"id":583880030,"node_id":"RA_kwDOTiYNS84izU1e","name":"druk-darwin-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":33911447,"digest":"sha256:7ad6cbcc00eb0dbf35bfe6d46a5e8f7ea8de1097827bda501100d873c257e947","download_count":2,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:39Z"},{"id":583880028,"node_id":"RA_kwDOTiYNS84izU1c","name":"druk-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":43995662,"digest":"sha256:a099d9f28a94e38623470bb14341fd2d5ee42f9b1f152d58c321030864db3a42","download_count":13,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880034,"node_id":"RA_kwDOTiYNS84izU1i","name":"druk-linux-x64-baseline.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222081,"digest":"sha256:06993794b992946fa85291cf76ccb1714b3ebe2b0e211af46f74c1db71342d79","download_count":4,"created_at":"2026-09-23T13:57:38Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880081,"node_id":"RA_kwDOTiYNS84izU2R","name":"druk-linux-x64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44222082,"digest":"sha256:d669c09bcdab43f4f15638c18cb6fbdb0b75cc4e4757ab0a13cb36cf79d0f250","download_count":61,"created_at":"2026-09-23T13:57:39Z","updated_at":"2026-09-23T13:57:41Z"},{"id":583880103,"node_id":"RA_kwDOTiYNS84izU2n","name":"druk-windows-x64-baseline.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45474659,"digest":"sha256:dddf5cb5c2e911d44a5495285c3f772cc158c1215f767a3a4d9be86a0b976982","download_count":1,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:42Z"},{"id":583880107,"node_id":"RA_kwDOTiYNS84izU2r","name":"druk-windows-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45474659,"digest":"sha256:d3c4864738bf27381378bf18d19adf363f91a2b41c5ba0c905f215ba68b4d065","download_count":31,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:42Z"},{"id":583880111,"node_id":"RA_kwDOTiYNS84izU2v","name":"druk.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":1721,"digest":"sha256:4e58ab83c1b6039d09c8ef2ccb9159247ecb85a93f97e5b150afdfcf186ec3a3","download_count":2,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:40Z"},{"id":583880114,"node_id":"RA_kwDOTiYNS84izU2y","name":"druk_1.35.2_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":45091928,"digest":"sha256:f482fe8f20230a17eafa89d6f88f8cbb4f28c397ab0b8c43b1fadab6f8e7c012","download_count":1,"created_at":"2026-09-23T13:57:40Z","updated_at":"2026-09-23T13:57:43Z"},{"id":583880129,"node_id":"RA_kwDOTiYNS84izU3B","name":"druk_1.35.2_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":45568188,"digest":"sha256:0dadcf750d7d16386cef23bde2abf50b2c234dfce8cf24a53072dc68e563c498","download_count":1,"created_at":"2026-09-23T13:57:41Z","updated_at":"2026-09-23T13:57:44Z"}],"body":"**Full Changelog**: https://github.com/letstri/druk/compare/v1.35.1...v1.35.2"}
