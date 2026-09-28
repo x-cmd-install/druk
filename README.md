@@ -14,12 +14,12 @@ x install druk
 
 ## Code insight
 
-Total: **84,621** lines of code across **498** files in the top 5 languages.
+Total: **84,674** lines of code across **499** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 32,759 | 886 | 2,952 | 207 |
-| Tsx | 32,138 | 621 | 4,129 | 201 |
+| TypeScript | 32,777 | 887 | 2,952 | 207 |
+| Tsx | 32,173 | 622 | 4,134 | 202 |
 | Json | 18,356 | 0 | 3 | 66 |
 | Scheme | 491 | 59 | 52 | 23 |
 | Css | 369 | 1 | 69 | 1 |
@@ -32,8 +32,8 @@ Total: **84,621** lines of code across **498** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.35.3` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Latest**: `v1.36.0` (2026-09-27)
+- **Last commit**: 2026-09-27
 - **Assets in release**: 16
 
 ## Popularity
@@ -42,39 +42,39 @@ Total: **84,621** lines of code across **498** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 62 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 2 · **Commits**: 530
+- **Releases**: 69 · **Merged PRs**: 62 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 2 · **Commits**: 532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 29 | 4 | 1 | 4 | 1 | 136 |
-| last60d | 2026-07-29 | 62 | 52 | 1 | 38 | 2 | 262 |
-| 90d | 2026-06-29 | 68 | 62 | 1 | 43 | 2 | 451 |
-| last180d | 2026-03-31 | 68 | 62 | 1 | 43 | 2 | 451 |
-| 360d | 2025-10-02 | 68 | 62 | 1 | 43 | 2 | 451 |
-| last720d | 2024-10-07 | 68 | 62 | 1 | 43 | 2 | 530 |
+| 30d | 2026-08-29 | 30 | 4 | 1 | 4 | 1 | 138 |
+| last60d | 2026-07-30 | 61 | 49 | 1 | 33 | 2 | 264 |
+| 90d | 2026-06-30 | 69 | 62 | 1 | 43 | 2 | 453 |
+| last180d | 2026-04-01 | 69 | 62 | 1 | 43 | 2 | 453 |
+| 360d | 2025-10-03 | 69 | 62 | 1 | 43 | 2 | 453 |
+| last720d | 2024-10-08 | 69 | 62 | 1 | 43 | 2 | 532 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [druk-1.35.3-1.aarch64.rpm](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3-1.aarch64.rpm) | 43.1 MiB | `runtime/rpm/aarch64` |
-| [druk-1.35.3-1.x86_64.rpm](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3-1.x86_64.rpm) | 42.8 MiB | `runtime/rpm/x86_64` |
-| [druk-1.35.3.arm64_linux.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3.arm64_linux.bottle.tar.gz) | 42.0 MiB | `native/linux/arm64` |
-| [druk-1.35.3.arm64_ventura.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3.arm64_ventura.bottle.tar.gz) | 30.0 MiB | `native/linux/arm64` |
-| [druk-1.35.3.ventura.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3.ventura.bottle.tar.gz) | 32.3 MiB | `native/unknown` |
-| [druk-1.35.3.x86_64_linux.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-1.35.3.x86_64_linux.bottle.tar.gz) | 42.2 MiB | `native/linux/x64` |
-| [druk-darwin-arm64.zip](https://github.com/letstri/druk/releases/download/v1.35.3/druk-darwin-arm64.zip) | 30.0 MiB | `native/darwin/arm64` |
-| [druk-darwin-x64.zip](https://github.com/letstri/druk/releases/download/v1.35.3/druk-darwin-x64.zip) | 32.3 MiB | `native/darwin/x64` |
-| [druk-linux-arm64.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-linux-arm64.tar.gz) | 42.0 MiB | `native/linux/arm64` |
-| [druk-linux-x64-baseline.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-linux-x64-baseline.tar.gz) | 42.2 MiB | `native/unknown` |
-| [druk-linux-x64.tar.gz](https://github.com/letstri/druk/releases/download/v1.35.3/druk-linux-x64.tar.gz) | 42.2 MiB | `native/unknown` |
-| [druk-windows-x64-baseline.zip](https://github.com/letstri/druk/releases/download/v1.35.3/druk-windows-x64-baseline.zip) | 43.4 MiB | `native/win/x64` |
-| [druk-windows-x64.zip](https://github.com/letstri/druk/releases/download/v1.35.3/druk-windows-x64.zip) | 43.4 MiB | `native/win/x64` |
-| [druk.rb](https://github.com/letstri/druk/releases/download/v1.35.3/druk.rb) | 1.7 KiB | `other` |
-| [druk_1.35.3_amd64.deb](https://github.com/letstri/druk/releases/download/v1.35.3/druk_1.35.3_amd64.deb) | 43.0 MiB | `runtime/deb/amd64` |
-| [druk_1.35.3_arm64.deb](https://github.com/letstri/druk/releases/download/v1.35.3/druk_1.35.3_arm64.deb) | 43.5 MiB | `runtime/deb/arm64` |
+| [druk-1.36.0-1.aarch64.rpm](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0-1.aarch64.rpm) | 43.1 MiB | `runtime/rpm/aarch64` |
+| [druk-1.36.0-1.x86_64.rpm](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0-1.x86_64.rpm) | 42.8 MiB | `runtime/rpm/x86_64` |
+| [druk-1.36.0.arm64_linux.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.arm64_linux.bottle.tar.gz) | 42.0 MiB | `native/linux/arm64` |
+| [druk-1.36.0.arm64_ventura.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.arm64_ventura.bottle.tar.gz) | 30.0 MiB | `native/linux/arm64` |
+| [druk-1.36.0.ventura.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.ventura.bottle.tar.gz) | 32.3 MiB | `native/unknown` |
+| [druk-1.36.0.x86_64_linux.bottle.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.x86_64_linux.bottle.tar.gz) | 42.2 MiB | `native/linux/x64` |
+| [druk-darwin-arm64.zip](https://github.com/letstri/druk/releases/download/v1.36.0/druk-darwin-arm64.zip) | 30.0 MiB | `native/darwin/arm64` |
+| [druk-darwin-x64.zip](https://github.com/letstri/druk/releases/download/v1.36.0/druk-darwin-x64.zip) | 32.3 MiB | `native/darwin/x64` |
+| [druk-linux-arm64.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-arm64.tar.gz) | 42.0 MiB | `native/linux/arm64` |
+| [druk-linux-x64-baseline.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-x64-baseline.tar.gz) | 42.2 MiB | `native/unknown` |
+| [druk-linux-x64.tar.gz](https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-x64.tar.gz) | 42.2 MiB | `native/unknown` |
+| [druk-windows-x64-baseline.zip](https://github.com/letstri/druk/releases/download/v1.36.0/druk-windows-x64-baseline.zip) | 43.4 MiB | `native/win/x64` |
+| [druk-windows-x64.zip](https://github.com/letstri/druk/releases/download/v1.36.0/druk-windows-x64.zip) | 43.4 MiB | `native/win/x64` |
+| [druk.rb](https://github.com/letstri/druk/releases/download/v1.36.0/druk.rb) | 1.7 KiB | `other` |
+| [druk_1.36.0_amd64.deb](https://github.com/letstri/druk/releases/download/v1.36.0/druk_1.36.0_amd64.deb) | 43.0 MiB | `runtime/deb/amd64` |
+| [druk_1.36.0_arm64.deb](https://github.com/letstri/druk/releases/download/v1.36.0/druk_1.36.0_arm64.deb) | 43.5 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for druk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:24:35Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:39:05Z._
