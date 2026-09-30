@@ -38,7 +38,7 @@ Total: **84,674** lines of code across **499** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 771 · **Forks**: 41 · **Open issues**: 45 · **Contributors**: 20
+- **Stars**: 772 · **Forks**: 41 · **Open issues**: 45 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **84,674** lines of code across **499** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 30 | 4 | 2 | 4 | 1 | 138 |
-| last60d | 2026-07-31 | 56 | 42 | 2 | 29 | 2 | 264 |
-| 90d | 2026-07-01 | 69 | 62 | 2 | 43 | 2 | 453 |
-| last180d | 2026-04-02 | 69 | 62 | 2 | 43 | 2 | 453 |
-| 360d | 2025-10-04 | 69 | 62 | 2 | 43 | 2 | 453 |
-| last720d | 2024-10-09 | 69 | 62 | 2 | 43 | 2 | 532 |
+| 30d | 2026-08-31 | 30 | 4 | 2 | 4 | 1 | 138 |
+| last60d | 2026-08-01 | 52 | 39 | 2 | 24 | 2 | 264 |
+| 90d | 2026-07-02 | 69 | 62 | 2 | 43 | 2 | 453 |
+| last180d | 2026-04-03 | 69 | 62 | 2 | 43 | 2 | 453 |
+| 360d | 2025-10-05 | 69 | 62 | 2 | 43 | 2 | 453 |
+| last720d | 2024-10-10 | 69 | 62 | 2 | 43 | 2 | 532 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for druk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:05:08Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:50:57Z._
