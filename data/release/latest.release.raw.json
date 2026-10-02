@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 31473665,
       "digest": "sha256:f7bfd187fb771982e34acd8c8083a0f97e7aad20edd513aa9a1699727ec15053",
-      "download_count": 120,
+      "download_count": 130,
       "created_at": "2026-09-27T10:39:35Z",
       "updated_at": "2026-09-27T10:39:37Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.arm64_ventura.bottle.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33910588,
       "digest": "sha256:96cd38b37f025e04e8718dceeec46ca1bdc22da312d6b15a40771a221e66fdfe",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-27T10:39:35Z",
       "updated_at": "2026-09-27T10:39:37Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.ventura.bottle.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 44222066,
       "digest": "sha256:dbf49d9edfb729762e4d011216519647bd789eae61d1135dd7735d14aabda175",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-27T10:39:37Z",
       "updated_at": "2026-09-27T10:39:39Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-1.36.0.x86_64_linux.bottle.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 31474079,
       "digest": "sha256:233e1f994576358a746b2ece379669e65d013522c996f16dc2655e272a411c69",
-      "download_count": 52,
+      "download_count": 60,
       "created_at": "2026-09-27T10:39:37Z",
       "updated_at": "2026-09-27T10:39:39Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43996431,
       "digest": "sha256:5f6a0f9c04af72f371db6d9eb05aa9b7f26ae438805a7ce694ec791dd2160a19",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-09-27T10:39:38Z",
       "updated_at": "2026-09-27T10:39:39Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 44221861,
       "digest": "sha256:429cba073e96ff1ebd300ac2b9a438457b023531eedb4d323858ddb050f23125",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-09-27T10:39:38Z",
       "updated_at": "2026-09-27T10:39:40Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-x64-baseline.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 44221860,
       "digest": "sha256:72b862ce5acc7ae5d26ce6f177eafbd1057d96d7e9bd99987e85e578a7b8362b",
-      "download_count": 81,
+      "download_count": 97,
       "created_at": "2026-09-27T10:39:39Z",
       "updated_at": "2026-09-27T10:39:41Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-linux-x64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 45475313,
       "digest": "sha256:afd9196d3b78d96468aa20a5730780f7d494924ee60506725464964e6d235424",
-      "download_count": 48,
+      "download_count": 54,
       "created_at": "2026-09-27T10:39:39Z",
       "updated_at": "2026-09-27T10:39:41Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.36.0/druk-windows-x64.zip"
