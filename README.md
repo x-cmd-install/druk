@@ -48,12 +48,12 @@ Total: **87,593** lines of code across **513** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 15 | 5 | 0 | 1 | 2 | 23 |
-| last60d | 2026-08-22 | 37 | 7 | 0 | 6 | 2 | 159 |
-| 90d | 2026-07-23 | 74 | 65 | 0 | 44 | 3 | 467 |
-| last180d | 2026-04-24 | 74 | 65 | 0 | 44 | 3 | 472 |
-| 360d | 2025-10-26 | 74 | 65 | 0 | 44 | 3 | 472 |
-| last720d | 2024-10-31 | 74 | 65 | 0 | 44 | 3 | 554 |
+| 30d | 2026-09-22 | 11 | 4 | 0 | 1 | 2 | 23 |
+| last60d | 2026-08-23 | 37 | 7 | 0 | 6 | 2 | 159 |
+| 90d | 2026-07-24 | 74 | 65 | 0 | 44 | 3 | 467 |
+| last180d | 2026-04-25 | 74 | 65 | 0 | 44 | 3 | 472 |
+| 360d | 2025-10-27 | 74 | 65 | 0 | 44 | 3 | 472 |
+| last720d | 2024-11-01 | 74 | 65 | 0 | 44 | 3 | 554 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for druk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:55:38Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:01:16Z._
