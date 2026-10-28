@@ -42,18 +42,18 @@ Total: **87,606** lines of code across **513** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 66 · **Open PRs**: 2 · **Closed issues**: 44 · **Open issues**: 3 · **Commits**: 557
+- **Releases**: 75 · **Merged PRs**: 66 · **Open PRs**: 3 · **Closed issues**: 44 · **Open issues**: 3 · **Commits**: 557
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 7 | 3 | 2 | 0 | 2 | 19 |
-| last60d | 2026-08-28 | 36 | 8 | 2 | 5 | 2 | 161 |
-| 90d | 2026-07-29 | 69 | 56 | 2 | 39 | 3 | 335 |
-| last180d | 2026-04-30 | 75 | 66 | 2 | 44 | 3 | 474 |
-| 360d | 2025-11-01 | 75 | 66 | 2 | 44 | 3 | 474 |
-| last720d | 2024-11-06 | 75 | 66 | 2 | 44 | 3 | 557 |
+| 30d | 2026-09-28 | 6 | 2 | 3 | 0 | 2 | 19 |
+| last60d | 2026-08-29 | 36 | 8 | 3 | 5 | 2 | 161 |
+| 90d | 2026-07-30 | 67 | 53 | 3 | 34 | 3 | 335 |
+| last180d | 2026-05-01 | 75 | 66 | 3 | 44 | 3 | 474 |
+| 360d | 2025-11-02 | 75 | 66 | 3 | 44 | 3 | 474 |
+| last720d | 2024-11-07 | 75 | 66 | 3 | 44 | 3 | 557 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for druk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:17:42Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:53:46Z._
