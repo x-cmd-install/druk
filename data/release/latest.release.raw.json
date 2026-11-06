@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 60161808,
       "digest": "sha256:f98abb95954e862145c16ad6813be7330d561a716955fbf1a0ba31e3f87704a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-23T15:49:23Z",
       "updated_at": "2026-10-23T15:49:27Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-1.40.1-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 46574886,
       "digest": "sha256:454a82b7fcb4ffa01ebc777983c7f65c7add4232b46165a73c8f358e33943575",
-      "download_count": 152,
+      "download_count": 158,
       "created_at": "2026-10-23T15:49:23Z",
       "updated_at": "2026-10-23T15:49:26Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-1.40.1.arm64_ventura.bottle.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 59366789,
       "digest": "sha256:3797d7e98b013362911c1edd47e63387f10f950608ae92a0b5b365acd40e4e71",
-      "download_count": 28,
+      "download_count": 42,
       "created_at": "2026-10-23T15:49:26Z",
       "updated_at": "2026-10-23T15:49:28Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-1.40.1.x86_64_linux.bottle.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 46576061,
       "digest": "sha256:55adcbf303d1ccc53b249ee28085ffe68777f0eea8c30b2a3e35c9d986f95b8c",
-      "download_count": 119,
+      "download_count": 129,
       "created_at": "2026-10-23T15:49:26Z",
       "updated_at": "2026-10-23T15:49:28Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 59027250,
       "digest": "sha256:3630b652a07fa315a1245a7161ecfa0f1dcb664486d32f4a32237b50f542c20c",
-      "download_count": 53,
+      "download_count": 56,
       "created_at": "2026-10-23T15:49:27Z",
       "updated_at": "2026-10-23T15:49:30Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 59366459,
       "digest": "sha256:94355ef7a01eabf49707bcb262166078cc8b7327596fc8024c70d2f90be99510",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-10-23T15:49:27Z",
       "updated_at": "2026-10-23T15:49:30Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-linux-x64-baseline.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 59366460,
       "digest": "sha256:cbccfcbdbfda2cca08475fa109cba5204a53210b722891b986cbb1caa4254b03",
-      "download_count": 191,
+      "download_count": 204,
       "created_at": "2026-10-23T15:49:28Z",
       "updated_at": "2026-10-23T15:49:31Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-linux-x64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 60404755,
       "digest": "sha256:bc7eb3a2575baa958391f9acbd62626fd1a59b66fc59e8f92d1a649c8d6d1912",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-23T15:49:28Z",
       "updated_at": "2026-10-23T15:49:31Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-windows-x64-baseline.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 60404755,
       "digest": "sha256:09fcaa865a2b1c7980fe5eaf5cc2ce6c060c7586a5c0d2f867ccde7fd771419a",
-      "download_count": 120,
+      "download_count": 123,
       "created_at": "2026-10-23T15:49:30Z",
       "updated_at": "2026-10-23T15:49:32Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk-windows-x64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1721,
       "digest": "sha256:e6943de9edfafef84e679d2c61d0b7fdc0d6d0d71bd31628c76443a89be0a785",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-23T15:49:30Z",
       "updated_at": "2026-10-23T15:49:31Z",
       "browser_download_url": "https://github.com/letstri/druk/releases/download/v1.40.1/druk.rb"
